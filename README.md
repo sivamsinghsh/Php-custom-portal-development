@@ -1,3 +1,2 @@
 # Php-custom-portal-development
-Things that i learn while doing programming in php
-This repository contains the template of php admin panel anyone can easily use it.It just contain some simple set of code which are in php
+This repository contains the template of php admin panel which anyone can easily use and customize it according to their nee. It just contain some simple set of code which are in php and for the frontend i have used bootstrap on it.
